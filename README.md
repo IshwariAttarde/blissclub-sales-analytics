@@ -149,5 +149,7 @@ The workbook `dataset/Brand_D2C_Illustrative_Dataset.xlsx` is an **illustrative 
 ---
 
 ## 👤 Author
+Ishwari Attarde
+LinkedIn: https://www.linkedin.com/in/ishwariattarde/
 
 Built as a portfolio project showcasing end-to-end BI dashboard design — from raw data to an executive-ready, multi-page Power BI report.
